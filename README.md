@@ -7,9 +7,9 @@
 
 📬 - Profissional Contact: jvictorcamcontact@proton.me 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Jvictorcam">
-  <img height="180em" width="58%" src="https://github-readme-stats.vercel.app/api?username=Jvictorcam&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Jvictorcam&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorcam&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
