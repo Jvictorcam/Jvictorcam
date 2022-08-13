@@ -7,10 +7,10 @@
 
 📬 - Profissional Contact: jvictorcamcontact@proton.me 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Jvictorcam">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Jvictorcam&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorcam&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Jvictorcam&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorcam&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jv-dev" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
