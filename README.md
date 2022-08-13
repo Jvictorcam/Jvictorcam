@@ -7,11 +7,11 @@
 
 📬 - Profissional Contact: jvictorcamcontact@proton.me 
 
-<div align="center">
-  <a href="https://github.com/Jvictorcam">
-  <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Jvictorcam&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorcam&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
+## Quick Overview
+
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jvictorcam&show_icons=true&theme=aura)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorcam&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jv-dev" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
   <img align="center" alt="Jv-cpp" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
