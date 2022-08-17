@@ -1,11 +1,11 @@
 ## Hello World, i'm Jvictorcam
-🔎 - Im looking for amplify my opportunities by creating and growing a portfolio with my personal projects
+🔎 - Im looking for amplify my opportunities and find a place to grow up as a dev
 
 🎯 - Im focused in improve my programming skills and my knowledge
 
 🏅 - Enrroled in Cmpetitive Prgramming Since 2017-> OBI(Brazilian Informatics Olympiad) -> Gold and Bronze medalhist
 
-📬 - Profissional Contact: jvictorcamcontact@proton.me 
+📬 - Contact: jvictorcamcontact@proton.me 
 
 ## Quick Overview
 
